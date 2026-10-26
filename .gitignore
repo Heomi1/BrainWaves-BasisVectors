@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter / SageMath
+.ipynb_checkpoints/
+*.sage.py
+
+# Generated data
+*.json
+*.edf
+mne_data/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
